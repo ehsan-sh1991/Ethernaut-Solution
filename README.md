@@ -15,5 +15,19 @@ Solving this level needs these steps:
 
 4- click on submit level in level20 Ethernaut web page then enjoy that ...
 
+for more details you must visit https://medium.com/@safeZ1/ethernaut-lvl-20-denial-walkthrough-how-to-abuse-gas-in-solidity-b50291341e6
 
-for more details you must visit https://medium.com/@safeZ1?p=b50291341e6
+
+Level 21: Shop
+
+Solving this level needs these steps:
+
+1- copy content of Level21-ShopAttack.sol file and paste them to Remix IDE(using Injected web3 with connected Metamask on Rinkeby network)
+
+2- Deploy this smart contract on remix 
+
+3- after successful deployment you must click attack button in remix with Shop Instance address(exist in console of level21 web page after click on Get new instance)
+
+4- click on submit level in level21 Ethernaut web page then enjoy that ...
+
+for more details you must visit https://medium.com/@safeZ1/ethernaut-lvl-21-shop-walkthrough-how-to-use-assembly-code-in-solidity-and-abuse-solidity-d8ced86c0eb4
